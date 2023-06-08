@@ -1,0 +1,4 @@
+### GET all requests
+
+GET http://localhost:6969/users
+
